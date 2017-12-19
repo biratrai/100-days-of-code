@@ -8,4 +8,11 @@
 
 **Link to work:** [Hello Toast](https://github.com/biratrai/android-fundamentals/tree/master/HelloToast)
 
+### Day 1: Dec 19 2017 
 
+**Today's Progress**: Continued on my Hello Kotlin series, converted the Java code into Kotlin. Added MyActivity and some initial dive into testing in Kotlin
+
+**Thoughts:** Too much of writing and learning Kotlin. Much much better than Java
+
+**Link to work:** [My Activity](https://github.com/biratrai/Learn-Kotlin/tree/master/2.MyActivity)
+**Link to work:** [Kotlin Test](https://github.com/biratrai/Learn-Kotlin/tree/master/3.KotlinTest)
