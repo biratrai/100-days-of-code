@@ -16,3 +16,19 @@
 
 **Link to work:** [My Activity](https://github.com/biratrai/Learn-Kotlin/tree/master/2.MyActivity)
 **Link to work:** [Kotlin Test](https://github.com/biratrai/Learn-Kotlin/tree/master/3.KotlinTest)
+
+### Day 2: Dec 20 2017 
+
+**Today's Progress**: Continued on my Hello Kotlin series, writing unit test in Kotlin, RecyclerView in Kotlin and using background task in Kotlin
+
+**Thoughts:** Lof of work was done and some sweet Kotlin stuffs were learnt.
+
+**Link to work:** [Background Task](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/backgroundTask)
+
+### Day 3: Dec 21 2017 
+
+**Today's Progress**: Writing RxJava, RxAndroid and Retrofit 2.0 in Kotlin, published kotlin series episode 8
+
+**Thoughts:** Had initial hicupps using RxJava and Retrofit together, once it was figured things went smoothly.
+
+**Link to work:** [Rx Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/rxKotlin)
