@@ -32,3 +32,11 @@
 **Thoughts:** Had initial hicupps using RxJava and Retrofit together, once it was figured things went smoothly.
 
 **Link to work:** [Rx Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/rxKotlin)
+
+### Day 4: Dec 22 2017 
+
+**Today's Progress**: Writing Sqlite and Room with RxJava in Kotlin, published kotlin series episode 9
+
+**Thoughts:** Had initial problems understanding Room, which is an recent new concept in android as an architectural component.
+
+**Link to work:** [Persistence in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/database)
