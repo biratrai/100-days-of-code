@@ -40,3 +40,11 @@
 **Thoughts:** Had initial problems understanding Room, which is an recent new concept in android as an architectural component.
 
 **Link to work:** [Persistence in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/database)
+
+### Day 5: Dec 23 2017 
+
+**Today's Progress**: Writing AlarmReceiver and Alarm Service in Kotlin
+
+**Thoughts:** Overwhelmed with getting back to remember lot of android stuff that I forgot.
+
+**Link to work:** [Alarm Receiver and Alarm Service in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/alarm)
