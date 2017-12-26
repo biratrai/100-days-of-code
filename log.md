@@ -48,3 +48,12 @@
 **Thoughts:** Overwhelmed with getting back to remember lot of android stuff that I forgot.
 
 **Link to work:** [Alarm Receiver and Alarm Service in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/alarm)
+
+### Day 6: Dec 24 2017 
+
+**Today's Progress**: Writing JobScheduler in Kotlin
+
+**Thoughts:** Overwhelmed with lot of android stuff dealing with background work that I forgot.
+
+**Link to work:** [Alarm Receiver and Alarm Service in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/alarm)
+
