@@ -57,3 +57,10 @@
 
 **Link to work:** [Alarm Receiver and Alarm Service in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/alarm)
 
+### Day 7: Dec 25 2017 
+
+**Today's Progress**: Writing Phone Call and SMS in Kotlin
+
+**Thoughts:** This is the part I hadn't done much, so much to learn.
+
+**Link to work:** [Alarm Receiver and Alarm Service in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/alarm)
