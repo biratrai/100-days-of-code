@@ -64,3 +64,11 @@
 **Thoughts:** This is the part I hadn't done much, so much to learn.
 
 **Link to work:** [Alarm Receiver and Alarm Service in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/alarm)
+
+### Day 8: Dec 26 2017 
+
+**Today's Progress**: Writing minimalist Content Provider in Kotlin
+
+**Thoughts:** Learnt about object class in Kotlin.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/contentProvider)
