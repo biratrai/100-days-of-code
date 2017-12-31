@@ -81,3 +81,11 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals)
 
+### Day 10: Dec 28 2017 
+
+**Today's Progress**: Writing phone dialer in Kotlin
+
+**Thoughts:** Little bump as the dialer wasn't being launched, it was just I had to add "tel:" to the phonenumber before launching dialer.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/phone)
+
