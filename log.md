@@ -89,3 +89,13 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/phone)
 
+### Day 11: Dec 29 2017 
+
+**Today's Progress**: Writing sms message sender in Kotlin
+
+**Thoughts:** Same as with dialer, we need to add data which should be parsed with "sms:" string for it to find the resolver activity.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/phone)
+
+
+
