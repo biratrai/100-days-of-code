@@ -72,3 +72,12 @@
 **Thoughts:** Learnt about object class in Kotlin.
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/contentProvider)
+
+### Day 9: Dec 27 2017 
+
+**Today's Progress**: Using Anko library for Kotlin
+
+**Thoughts:** Learnt about how powerful Anko library is in doing menial work in Android.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals)
+
