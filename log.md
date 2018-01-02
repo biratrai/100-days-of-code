@@ -97,5 +97,13 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/phone)
 
+### Day 12: Dec 30 2017 
+
+**Today's Progress**: Writing appwidget in Kotlin
+
+**Thoughts:** Learnt about widget is nothing but a receiver which has access to contentprovider.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/widget)
+
 
 
