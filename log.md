@@ -105,5 +105,11 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/widget)
 
+### Day 13: Dec 31 2017 
 
+**Today's Progress**: Writing a bootstrap for static webpage project
+
+**Thoughts:** Learnt material design js library and applying it for the static webpage.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/portfoliosite)
 
