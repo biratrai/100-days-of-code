@@ -113,3 +113,10 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/portfoliosite)
 
+### Day 14: Jan 1 2018
+
+**Today's Progress**: Writing a sensor manager in kotlin and further developing widget.
+
+**Thoughts:** Learnt about different sensor and how to display changes in value. Learnt how to start an activity from the widget. Copy-paste code ruined a lot of time, need to understand the code before I use it in future.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/sensor)
