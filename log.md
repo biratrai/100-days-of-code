@@ -120,3 +120,11 @@
 **Thoughts:** Learnt about different sensor and how to display changes in value. Learnt how to start an activity from the widget. Copy-paste code ruined a lot of time, need to understand the code before I use it in future.
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/sensor)
+
+### Day 15: Jan 2 2018
+
+**Today's Progress**: Writing a Geo location in kotlin.
+
+**Thoughts:** Learnt about how to get location updates. It's an asynchronous update and it was good to handle it.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/geofeature)
