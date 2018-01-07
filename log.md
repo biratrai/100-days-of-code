@@ -79,7 +79,7 @@
 
 **Thoughts:** Learnt about how powerful Anko library is in doing menial work in Android.
 
-**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals)
+**Link to work:** [Anko Library in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals)
 
 ### Day 10: Dec 28 2017 
 
@@ -87,7 +87,7 @@
 
 **Thoughts:** Little bump as the dialer wasn't being launched, it was just I had to add "tel:" to the phonenumber before launching dialer.
 
-**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/phone)
+**Link to work:** [Phone in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/phone)
 
 ### Day 11: Dec 29 2017 
 
@@ -95,7 +95,7 @@
 
 **Thoughts:** Same as with dialer, we need to add data which should be parsed with "sms:" string for it to find the resolver activity.
 
-**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/phone)
+**Link to work:** [SMS in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/phone)
 
 ### Day 12: Dec 30 2017 
 
@@ -103,7 +103,7 @@
 
 **Thoughts:** Learnt about widget is nothing but a receiver which has access to contentprovider.
 
-**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/widget)
+**Link to work:** [Widget in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/widget)
 
 ### Day 13: Dec 31 2017 
 
@@ -111,7 +111,7 @@
 
 **Thoughts:** Learnt material design js library and applying it for the static webpage.
 
-**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/portfoliosite)
+**Link to work:** [Portfolio bootstrap](https://github.com/biratrai/portfoliosite)
 
 ### Day 14: Jan 1 2018
 
@@ -119,7 +119,7 @@
 
 **Thoughts:** Learnt about different sensor and how to display changes in value. Learnt how to start an activity from the widget. Copy-paste code ruined a lot of time, need to understand the code before I use it in future.
 
-**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/sensor)
+**Link to work:** [Android Sensor in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/sensor)
 
 ### Day 15: Jan 2 2018
 
@@ -127,4 +127,14 @@
 
 **Thoughts:** Learnt about how to get location updates. It's an asynchronous update and it was good to handle it.
 
-**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/geofeature)
+**Link to work:** [Geo location in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/geofeature)
+
+### Day 16: Jan 3 2018
+
+**Today's Progress**: Writing a Geo location in kotlin.
+
+**Thoughts:** Learnt about how to get location updates. It's an asynchronous update and it was good to handle it.
+
+**Link to work:** [Geo location in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/geofeature)
+
+
