@@ -147,3 +147,11 @@
 **Link to work:** [Places in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/geofeature)
 
 
+### Day 18: Jan 5 2018
+
+**Today's Progress**: Writing a Custom EditText.
+
+**Thoughts:** Learnt about how to get location updates. It's an asynchronous update and it was good to handle it.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/customview)
+
