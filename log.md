@@ -155,3 +155,11 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/customview)
 
+### Day 19: Jan 6 2018
+
+**Today's Progress**: Writing a Custom View.
+
+**Thoughts:** Learnt extending Android View class. Using the onDraw() to drawCircle() and drawText() from canvas() class method, onSizeChanged() method to handle the width and height changes calculation.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/customview)
+
