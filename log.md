@@ -138,3 +138,12 @@
 **Link to work:** [Geo location in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/geofeature)
 
 
+### Day 17: Jan 4 2018
+
+**Today's Progress**: Writing a places in kotlin.
+
+**Thoughts:** Learnt about how to get convert latitude and longitude to meaningful places. It was based upon google places API,
+
+**Link to work:** [Places in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/geofeature)
+
+
