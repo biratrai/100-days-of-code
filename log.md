@@ -163,3 +163,10 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/customview)
 
+### Day 20: Jan 7 2018
+
+**Today's Progress**: Continuing a Custom View. 
+
+**Thoughts:** Added on click function to the fancontroller view. Learnt about Kotlin lambdas with run function.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/customview)
