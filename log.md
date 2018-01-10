@@ -179,3 +179,11 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/canvas)
 
+### Day 22: Jan 9 2018
+
+**Today's Progress**: Continuing a Canvas View. 
+
+**Thoughts:** Further adding click listener. In click by measuring the area, further added rectangles inside it.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/canvas)
+
