@@ -170,3 +170,12 @@
 **Thoughts:** Added on click function to the fancontroller view. Learnt about Kotlin lambdas with run function.
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/customview)
+
+### Day 21: Jan 8 2018
+
+**Today's Progress**: Handling a Canvas View. 
+
+**Thoughts:** Added a self drawing custom view that handled canvas. Created canvas using bitmap and adding color to it using background color.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/canvas)
+
