@@ -187,3 +187,10 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/canvas)
 
+### Day 23: Jan 10 2018
+
+**Today's Progress**: Continuing a Canvas View. 
+
+**Thoughts:** Added custom DrawCanvas and override constructor to initialize color and paint object. Initialized canvas and bitmap in the onSizeChanged() method.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/canvas)   
