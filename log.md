@@ -211,3 +211,10 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/jobScheduler) 
 
+### Day 26: Jan 13 2018
+
+**Today's Progress**: Doing Android Certification. 
+
+**Thoughts:** Learnt how to deal with pressure situation as I have to complete the task in 24hours. Coded for straight 12 hours to finish it.
+
+
