@@ -195,10 +195,19 @@
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/canvas)   
 
-### Day 24: Jan 10 2018
+### Day 24: Jan 11 2018
 
 **Today's Progress**: Continuing a Canvas View. 
 
 **Thoughts:** Learnt how to call another constructor in Kotlin. Overrode onToucEvent to capture event in touch and wrote logic to handle touch, move and up.
 
 **Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/canvas) 
+
+### Day 25: Jan 12 2018
+
+**Today's Progress**: Learnt about Notification. 
+
+**Thoughts:** Learnt how notification won't be setRepeating in exact now.
+
+**Link to work:** [Content provider in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/jobScheduler) 
+
