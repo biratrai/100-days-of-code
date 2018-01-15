@@ -217,4 +217,8 @@
 
 **Thoughts:** Learnt how to deal with pressure situation as I have to complete the task in 24hours. Coded for straight 12 hours to finish it.
 
+### Day 27: Jan 14 2018
 
+**Today's Progress**: Submitted for Android Certification. Started to learn about clipping to canvas.
+
+**Thoughts:** It's a never known part of android and it's getting interesting.
