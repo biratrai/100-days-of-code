@@ -229,3 +229,10 @@
 
 **Thoughts:** Learnt about paint strokewidth, textsize, antialias and RectF.
 
+### Day 29: Jan 16 2018
+
+**Today's Progress**: Continuning clippedView.
+
+**Thoughts:** Using canvas API to drawLine, clipped Rectangle, drawCircle and drawText.
+
+
