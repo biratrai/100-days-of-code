@@ -222,3 +222,10 @@
 **Today's Progress**: Submitted for Android Certification. Started to learn about clipping to canvas.
 
 **Thoughts:** It's a never known part of android and it's getting interesting.
+
+### Day 28: Jan 15 2018
+
+**Today's Progress**: Learn about clipping to canvas.
+
+**Thoughts:** Learnt about paint strokewidth, textsize, antialias and RectF.
+
