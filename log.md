@@ -258,4 +258,10 @@
 
 **Today's Progress**: Started SurfaceView.
 
-**Thoughts:** Learnt about using ternary operator in kotlin.
+**Thoughts:** Learnt about using ternary operator in kotlin, lateinit.
+
+### Day 34: Jan 21 2018
+
+**Today's Progress**: Continuing SurfaceView.
+
+**Thoughts:** Learnt about internal in kotlin which is like package private. Used runnable in Kotlin to start thread.
