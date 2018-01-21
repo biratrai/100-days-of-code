@@ -241,9 +241,17 @@
 
 **Thoughts:** Using the onDraw() api of view and setting drawColor of canvas and translating to origin and drawing clippedRectangle.
 
-### Day 30: Jan 18 2018
+### Day 31: Jan 18 2018
 
 **Today's Progress**: Continuing clippedView.
 
 **Thoughts:** Drawing clipped rectangle with circle and rectangle.
+
+
+### Day 32: Jan 19 2018
+
+**Today's Progress**: Continuing clippedView.
+
+**Thoughts:** Drawing clippedRectangle with roundRect and drawing text.
+
 
