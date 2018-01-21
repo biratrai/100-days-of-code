@@ -254,4 +254,8 @@
 
 **Thoughts:** Drawing clippedRectangle with roundRect and drawing text.
 
+### Day 33: Jan 20 2018
 
+**Today's Progress**: Started SurfaceView.
+
+**Thoughts:** Learnt about using ternary operator in kotlin.
