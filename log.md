@@ -271,6 +271,13 @@
 
 **Today's Progress**: Continuing SurfaceView.
 
-**Thoughts:** Learnt about using the custom GameView to set FullScreen in Kotlin. Handling the lifecycle changes of the customview in onPause and onResume, which basically handled the thread creation, start and joining.
+**Thoughts:** Learnt about using the custom GameView to set FullScreen in Kotlin. Handling the lifecycle changes of the customview in onPause and onResume, which basically handled the thread creation, start and joining
+
+### Day 36: Jan 23 2018
+
+**Today's Progress**: Learning Object Animation.
+
+**Thoughts:** Learnt about ObjectAnimator, created a growAnimator and assigning duration and it's interpolator to draw linearly, shrinkAnimator with LinearOutSlowInterpolator and repeatAnimator with repeatMode and count.
+
 
 
