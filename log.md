@@ -280,4 +280,8 @@
 **Thoughts:** Learnt about ObjectAnimator, created a growAnimator and assigning duration and it's interpolator to draw linearly, shrinkAnimator with LinearOutSlowInterpolator and repeatAnimator with repeatMode and count.
 
 
+### Day 37: Jan 24 2018
 
+**Today's Progress**: Learning Object Animation.
+
+**Thoughts:** Learnt about AnimatorSet to combine a set of objectAnimator  and cancel and start in onTouch. Also, learnt some times initializing to default values is helpful in kotlin.
