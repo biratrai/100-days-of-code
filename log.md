@@ -265,3 +265,12 @@
 **Today's Progress**: Continuing SurfaceView.
 
 **Thoughts:** Learnt about internal in kotlin which is like package private. Used runnable in Kotlin to start thread.
+
+
+### Day 35: Jan 22 2018
+
+**Today's Progress**: Continuing SurfaceView.
+
+**Thoughts:** Learnt about using the custom GameView to set FullScreen in Kotlin. Handling the lifecycle changes of the customview in onPause and onResume, which basically handled the thread creation, start and joining.
+
+
