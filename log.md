@@ -292,4 +292,9 @@
 
 **Thoughts:** Learnt about Physics Animation in Kotlin.
 
+### Day 39: Jan 26 2018
+
+**Today's Progress**: Continuing Physics Animation.
+
+**Thoughts:** Learnt Spring animation.
 
