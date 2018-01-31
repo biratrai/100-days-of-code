@@ -312,7 +312,11 @@
 **Thoughts:** Adding fling animation.
 
 
+### Day 42: Jan 30 2018
 
+**Today's Progress**: Completing the physics based animation.
+
+**Thoughts:** Learnt about adding two animation using springAnimation and FloatProperty in Kotlin.
 
 
 
