@@ -285,3 +285,11 @@
 **Today's Progress**: Learning Object Animation.
 
 **Thoughts:** Learnt about AnimatorSet to combine a set of objectAnimator  and cancel and start in onTouch. Also, learnt some times initializing to default values is helpful in kotlin.
+
+### Day 38: Jan 25 2018
+
+**Today's Progress**: Learning Physics Animation.
+
+**Thoughts:** Learnt about Physics Animation in Kotlin.
+
+
