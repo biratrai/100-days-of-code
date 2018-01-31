@@ -305,5 +305,14 @@
 
 **Thoughts:** Learnt adding listener for the animation and change the view when animation ends in kotlin.
 
+### Day 41: Jan 29 2018
+
+**Today's Progress**: Continuing Physics based Animation.
+
+**Thoughts:** Adding fling animation.
+
+
+
+
 
 
