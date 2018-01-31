@@ -298,3 +298,12 @@
 
 **Thoughts:** Learnt Spring animation.
 
+
+### Day 40: Jan 28 2018
+
+**Today's Progress**: Continuing Physics based Animation.
+
+**Thoughts:** Learnt adding listener for the animation and change the view when animation ends in kotlin.
+
+
+
