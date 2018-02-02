@@ -318,5 +318,9 @@
 
 **Thoughts:** Learnt about adding two animation using springAnimation and FloatProperty in Kotlin.
 
+### Day 43: Jan 31 2018
+
+**Today's Progress**: Revising the android fundamentals course completed so far.
+
 
 
