@@ -322,5 +322,9 @@
 
 **Today's Progress**: Revising the android fundamentals course completed so far.
 
+### Day 44: Feb 1, 2018
 
+**Today's Progress**: Starting on portfolio project for Udacity.
+
+**Thoughts:** Learnt laying image by position as absolute and margin top and left by percent. Also giving font-size by em.
 
