@@ -334,5 +334,11 @@
 
 **Thoughts:** Improving the UI.
 
+### Day 46: Feb 3, 2018
+
+**Today's Progress**: Continuing on portfolio project for Udacity.
+
+**Thoughts:** Adding portfolio project.
+
 
 
