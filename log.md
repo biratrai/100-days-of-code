@@ -328,3 +328,11 @@
 
 **Thoughts:** Learnt laying image by position as absolute and margin top and left by percent. Also giving font-size by em.
 
+### Day 45: Feb 2, 2018
+
+**Today's Progress**: Working on portfolio project for Udacity.
+
+**Thoughts:** Improving the UI.
+
+
+
