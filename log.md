@@ -340,5 +340,9 @@
 
 **Thoughts:** Adding portfolio project.
 
+### Day 47: Feb 4, 2018
 
+**Today's Progress**: Continuing on portfolio project for Udacity.
+
+**Thoughts:** Adjusting the portfolio cards.
 
