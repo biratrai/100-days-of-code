@@ -346,3 +346,9 @@
 
 **Thoughts:** Adjusting the portfolio cards.
 
+### Day 48: Feb 4, 2018
+
+**Today's Progress**: Learning HTML, CSS and Boxes for Udacity Fullstack Nanodegree.
+
+**Thoughts:** Learnt about what server is, port is and PIP in python.
+
