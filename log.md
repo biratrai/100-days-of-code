@@ -357,3 +357,9 @@
 **Today's Progress**: Learning BoxModel for Udacity Fullstack Nanodegree.
 
 **Thoughts:** Updating the portfolio project.
+
+### Day 50: Feb 6, 2018
+
+**Today's Progress**: Updating SimpleToDo repository to kotlin.
+
+**Thoughts:** Using the latest version for Realm and Kotlin. Realm has different constructor to init and updating dagger 2.11
