@@ -352,3 +352,8 @@
 
 **Thoughts:** Learnt about what server is, port is and PIP in python.
 
+### Day 49: Feb 5, 2018
+
+**Today's Progress**: Learning BoxModel for Udacity Fullstack Nanodegree.
+
+**Thoughts:** Updating the portfolio project.
