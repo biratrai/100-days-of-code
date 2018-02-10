@@ -376,4 +376,9 @@
 
 **Thoughts:** Learn about Custom Scope, Main ApplicatonModule, Main ApplicationComponent and ActivityBindingModule.
 
+### Day 53: Feb 9, 2018
+
+**Today's Progress**: Following up with Dagger 2.14
+
+**Thoughts:** Learnt with ActivityBindingModule, will create generated SubComponent with injection to activity. And, dug deep to find out how Dagger generates Code.
 
