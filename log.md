@@ -370,4 +370,10 @@
 
 **Thoughts:** Dagger 2.14 has incredible amount of changes to initial dagger 2 digesting it slowly.
 
+### Day 52: Feb 8, 2018
+
+**Today's Progress**: Following up with Dagger 2.14
+
+**Thoughts:** Learn about Custom Scope, Main ApplicatonModule, Main ApplicationComponent and ActivityBindingModule.
+
 
