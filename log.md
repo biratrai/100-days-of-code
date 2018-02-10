@@ -382,3 +382,9 @@
 
 **Thoughts:** Learnt with ActivityBindingModule, will create generated SubComponent with injection to activity. And, dug deep to find out how Dagger generates Code.
 
+### Day 54: Feb 10, 2018
+
+**Today's Progress**: Following up with Dagger 2.14
+
+**Thoughts:** Continued to learn about how Dagger generates code. It's not magical after all. Completed the final update in simpleToDo to dagger 2.14
+
