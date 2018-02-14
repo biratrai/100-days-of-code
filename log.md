@@ -393,5 +393,10 @@
 
 **Today's Progress**: Started learning Android Architecture components.
 
-**Thoughts:** Lot of good stuff is there in Android Architecture components. Did code lab for Room.
+**Thoughts:** Lot of good stuff is there in Android Architecture components. Did code lab for Room. Cleaned old code base for popular movies.
 
+### Day 55: Feb 12, 2018
+
+**Today's Progress**: Followed with Android Architecture components.
+
+**Thoughts:** Started to do coding with Room. It's an ORM. Tried to use Room to store popular movie api data for offline usage.
