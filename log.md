@@ -388,3 +388,10 @@
 
 **Thoughts:** Continued to learn about how Dagger generates code. It's not magical after all. Completed the final update in simpleToDo to dagger 2.14
 
+
+### Day 55: Feb 11, 2018
+
+**Today's Progress**: Started learning Android Architecture components.
+
+**Thoughts:** Lot of good stuff is there in Android Architecture components. Did code lab for Room.
+
