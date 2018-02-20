@@ -413,5 +413,14 @@
 
 **Thoughts:** Created DAO object which is responsible to have the query methods equivalent to the sqlite queries. It's super easy to make queries with room.
 
+### Day 59: Feb 15, 2018
+
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Created an abstract class which extended RoomDatabase to create the database for the application. A simple annotation with @Database with entities and version of the database was all needed to create a database. We can add the migration logic here.
+
+
+
+
 
 
