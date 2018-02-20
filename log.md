@@ -425,6 +425,14 @@
 
 **Thoughts:** Added a class to separate the Room specific logic to a repository class. This was an interface that can help us abstract the concrete implementation of the database queries.
 
+### Day 61: Feb 17, 2018
+
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Integrated Stetho library to easily access the created database and see the results. This helps in debugging the application pretty easily.
+
+
+
 
 
 
