@@ -362,80 +362,81 @@
 
 **Today's Progress**: Updating SimpleToDo repository to kotlin.
 
-**Thoughts:** Using the latest version for Realm and Kotlin. Realm has different constructor to init and updating dagger 2.11
+**Thoughts:** Using the latest version for Realm and Kotlin. Realm has different constructor to init and updating dagger 2.14 [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 ### Day 51: Feb 7, 2018
 
 **Today's Progress**: Following up with Dagger 2.14
 
-**Thoughts:** Dagger 2.14 has incredible amount of changes to initial dagger 2 digesting it slowly.
+**Thoughts:** Dagger 2.14 has incredible amount of changes to initial dagger 2 digesting it slowly. [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 ### Day 52: Feb 8, 2018
 
 **Today's Progress**: Following up with Dagger 2.14
 
-**Thoughts:** Learn about Custom Scope, Main ApplicatonModule, Main ApplicationComponent and ActivityBindingModule.
+**Thoughts:** Learn about Custom Scope, Main ApplicatonModule, Main ApplicationComponent and ActivityBindingModule. [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 ### Day 53: Feb 9, 2018
 
 **Today's Progress**: Following up with Dagger 2.14
 
-**Thoughts:** Learnt with ActivityBindingModule, will create generated SubComponent with injection to activity. And, dug deep to find out how Dagger generates Code.
+**Thoughts:** Learnt with ActivityBindingModule, will create generated SubComponent with injection to activity. And, dug deep to find out how Dagger generates Code. [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 ### Day 54: Feb 10, 2018
 
 **Today's Progress**: Following up with Dagger 2.14
 
-**Thoughts:** Continued to learn about how Dagger generates code. It's not magical after all. Completed the final update in simpleToDo to dagger 2.14
+**Thoughts:** Continued to learn about how Dagger generates code. It's not magical after all. Completed the final update in simpleToDo to dagger 2.14 [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 
 ### Day 55: Feb 11, 2018
 
 **Today's Progress**: Started learning Android Architecture components.
 
-**Thoughts:** Lot of good stuff is there in Android Architecture components. Did code lab for Room. Cleaned old code base for popular movies.
+**Thoughts:** Lot of good stuff is there in Android Architecture components. Did code lab for Room. Cleaned old code base for popular movies. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 56: Feb 12, 2018
 
 **Today's Progress**: Followed with Android Architecture components.
 
-**Thoughts:** Started to do coding with Room. It's an ORM. Tried to use Room to store popular movie api data for offline usage.
+**Thoughts:** Started to do coding with Room. It's an ORM. Tried to use Room to store popular movie api data for offline usage. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 57: Feb 13, 2018
 
 **Today's Progress**: Followed with Android Architecture components especially Room.
 
-**Thoughts:** Updated model classes to entities with @Entity annotation and added table name along with it. We can use @PrimaryKey to declare the primary key for our database, @ColumnInfo to declare columns and @Ignore to ignore some fields. Only thing we should be careful about it, the primary key shouldn't be null hence, we have to add @NonNull annotation to the pimaryKey field.
+**Thoughts:** Updated model classes to entities with @Entity annotation and added table name along with it. We can use @PrimaryKey to declare the primary key for our database, @ColumnInfo to declare columns and @Ignore to ignore some fields. Only thing we should be careful about it, the primary key shouldn't be null hence, we have to add @NonNull annotation to the pimaryKey field. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 58: Feb 14, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Created DAO object which is responsible to have the query methods equivalent to the sqlite queries. It's super easy to make queries with room.
+**Thoughts:** Created DAO object which is responsible to have the query methods equivalent to the sqlite queries. It's super easy to make queries with room. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 59: Feb 15, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Created an abstract class which extended RoomDatabase to create the database for the application. A simple annotation with @Database with entities and version of the database was all needed to create a database. We can add the migration logic here.
+**Thoughts:** Created an abstract class which extended RoomDatabase to create the database for the application. A simple annotation with @Database with entities and version of the database was all needed to create a database. We can add the migration logic here. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 60: Feb 16, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Added a class to separate the Room specific logic to a repository class. This was an interface that can help us abstract the concrete implementation of the database queries.
+**Thoughts:** Added a class to separate the Room specific logic to a repository class. This was an interface that can help us abstract the concrete implementation of the database queries. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 61: Feb 17, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Integrated Stetho library to easily access the created database and see the results. This helps in debugging the application pretty easily.
+**Thoughts:** Integrated Stetho library to easily access the created database and see the results. This helps in debugging the application pretty easily. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 62: Feb 18, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Finally added the Room database queries to add the favorite movie user has selected to the database and display the title in a simple text view.
+**Thoughts:** Finally added the Room database queries to add the favorite movie user has selected to the database and display the title in a simple text view. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+
 
 
 
