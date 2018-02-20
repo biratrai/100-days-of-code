@@ -431,6 +431,13 @@
 
 **Thoughts:** Integrated Stetho library to easily access the created database and see the results. This helps in debugging the application pretty easily.
 
+### Day 62: Feb 18, 2018
+
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Finally added the Room database queries to add the favorite movie user has selected to the database and display the title in a simple text view.
+
+
 
 
 
