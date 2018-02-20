@@ -407,3 +407,11 @@
 
 **Thoughts:** Updated model classes to entities with @Entity annotation and added table name along with it. We can use @PrimaryKey to declare the primary key for our database, @ColumnInfo to declare columns and @Ignore to ignore some fields. Only thing we should be careful about it, the primary key shouldn't be null hence, we have to add @NonNull annotation to the pimaryKey field.
 
+### Day 58: Feb 14, 2018
+
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Created DAO object which is responsible to have the query methods equivalent to the sqlite queries. It's super easy to make queries with room.
+
+
+
