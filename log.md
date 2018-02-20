@@ -229,11 +229,15 @@
 
 **Thoughts:** Learnt about paint strokewidth, textsize, antialias and RectF.
 
+**Link to work:**[Clipping in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/clippedView)
+
 ### Day 29: Jan 16 2018
 
 **Today's Progress**: Continuning clippedView.
 
 **Thoughts:** Using canvas API to drawLine, clipped Rectangle, drawCircle and drawText.
+
+**Link to work:**[Clipping in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/clippedView)
 
 ### Day 30: Jan 17 2018
 
@@ -241,12 +245,15 @@
 
 **Thoughts:** Using the onDraw() api of view and setting drawColor of canvas and translating to origin and drawing clippedRectangle.
 
+**Link to work:**[Clipping in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/clippedView)
+
 ### Day 31: Jan 18 2018
 
 **Today's Progress**: Continuing clippedView.
 
 **Thoughts:** Drawing clipped rectangle with circle and rectangle.
 
+**Link to work:**[Clipping in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/clippedView)
 
 ### Day 32: Jan 19 2018
 
@@ -254,17 +261,23 @@
 
 **Thoughts:** Drawing clippedRectangle with roundRect and drawing text.
 
+**Link to work:**[Clipping in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/clippedView)
+
 ### Day 33: Jan 20 2018
 
 **Today's Progress**: Started SurfaceView.
 
 **Thoughts:** Learnt about using ternary operator in kotlin, lateinit.
 
+**Link to work:**[SurfaceView in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/surfaceview)
+
 ### Day 34: Jan 21 2018
 
 **Today's Progress**: Continuing SurfaceView.
 
 **Thoughts:** Learnt about internal in kotlin which is like package private. Used runnable in Kotlin to start thread.
+
+**Link to work:**[SurfaceView in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/clippedView)
 
 
 ### Day 35: Jan 22 2018
@@ -273,11 +286,15 @@
 
 **Thoughts:** Learnt about using the custom GameView to set FullScreen in Kotlin. Handling the lifecycle changes of the customview in onPause and onResume, which basically handled the thread creation, start and joining
 
+**Link to work:**[SurfaceView in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/clippedView)
+
 ### Day 36: Jan 23 2018
 
 **Today's Progress**: Learning Object Animation.
 
 **Thoughts:** Learnt about ObjectAnimator, created a growAnimator and assigning duration and it's interpolator to draw linearly, shrinkAnimator with LinearOutSlowInterpolator and repeatAnimator with repeatMode and count.
+
+**Link to work:**[Animation in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/physicsanimation)
 
 
 ### Day 37: Jan 24 2018
@@ -286,17 +303,23 @@
 
 **Thoughts:** Learnt about AnimatorSet to combine a set of objectAnimator  and cancel and start in onTouch. Also, learnt some times initializing to default values is helpful in kotlin.
 
+**Link to work:**[Animation in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/physicsanimation)
+
 ### Day 38: Jan 25 2018
 
 **Today's Progress**: Learning Physics Animation.
 
 **Thoughts:** Learnt about Physics Animation in Kotlin.
 
+**Link to work:**[Animation in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/physicsanimation)
+
 ### Day 39: Jan 26 2018
 
 **Today's Progress**: Continuing Physics Animation.
 
 **Thoughts:** Learnt Spring animation.
+
+**Link to work:**[Animation in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/physicsanimation)
 
 
 ### Day 40: Jan 28 2018
@@ -305,11 +328,15 @@
 
 **Thoughts:** Learnt adding listener for the animation and change the view when animation ends in kotlin.
 
+**Link to work:**[Animation in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/physicsanimation)
+
 ### Day 41: Jan 29 2018
 
 **Today's Progress**: Continuing Physics based Animation.
 
 **Thoughts:** Adding fling animation.
+
+**Link to work:**[Animation in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/physicsanimation)
 
 
 ### Day 42: Jan 30 2018
@@ -317,6 +344,8 @@
 **Today's Progress**: Completing the physics based animation.
 
 **Thoughts:** Learnt about adding two animation using springAnimation and FloatProperty in Kotlin.
+
+**Link to work:**[Animation in Kotlin](https://github.com/biratrai/android-developer-fundamental-course/tree/master/app/src/main/java/com/example/gooner10/androiddeveloperfundamentals/physicsanimation)
 
 ### Day 43: Jan 31 2018
 
@@ -328,11 +357,15 @@
 
 **Thoughts:** Learnt laying image by position as absolute and margin top and left by percent. Also giving font-size by em.
 
+**Link to work:** [Portfolio bootstrap](https://github.com/biratrai/portfoliosite)
+
 ### Day 45: Feb 2, 2018
 
 **Today's Progress**: Working on portfolio project for Udacity.
 
 **Thoughts:** Improving the UI.
+
+**Link to work:** [Portfolio bootstrap](https://github.com/biratrai/portfoliosite)
 
 ### Day 46: Feb 3, 2018
 
@@ -340,11 +373,15 @@
 
 **Thoughts:** Adding portfolio project.
 
+**Link to work:** [Portfolio bootstrap](https://github.com/biratrai/portfoliosite)
+
 ### Day 47: Feb 4, 2018
 
 **Today's Progress**: Continuing on portfolio project for Udacity.
 
 **Thoughts:** Adjusting the portfolio cards.
+
+**Link to work:** [Portfolio bootstrap](https://github.com/biratrai/portfoliosite)
 
 ### Day 48: Feb 4, 2018
 
@@ -358,84 +395,112 @@
 
 **Thoughts:** Updating the portfolio project.
 
+**Link to work:** [Portfolio bootstrap](https://github.com/biratrai/portfoliosite)
+
 ### Day 50: Feb 6, 2018
 
 **Today's Progress**: Updating SimpleToDo repository to kotlin.
 
-**Thoughts:** Using the latest version for Realm and Kotlin. Realm has different constructor to init and updating dagger 2.14 [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
+**Thoughts:** Using the latest version for Realm and Kotlin. Realm has different constructor to init and updating dagger 2.14 
+
+**Link to work:** [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 ### Day 51: Feb 7, 2018
 
 **Today's Progress**: Following up with Dagger 2.14
 
-**Thoughts:** Dagger 2.14 has incredible amount of changes to initial dagger 2 digesting it slowly. [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
+**Thoughts:** Dagger 2.14 has incredible amount of changes to initial dagger 2 digesting it slowly. 
+
+**Link to work:** [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 ### Day 52: Feb 8, 2018
 
 **Today's Progress**: Following up with Dagger 2.14
 
-**Thoughts:** Learn about Custom Scope, Main ApplicatonModule, Main ApplicationComponent and ActivityBindingModule. [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
+**Thoughts:** Learn about Custom Scope, Main ApplicatonModule, Main ApplicationComponent and ActivityBindingModule. 
+
+**Link to work:** [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 ### Day 53: Feb 9, 2018
 
 **Today's Progress**: Following up with Dagger 2.14
 
-**Thoughts:** Learnt with ActivityBindingModule, will create generated SubComponent with injection to activity. And, dug deep to find out how Dagger generates Code. [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
+**Thoughts:** Learnt with ActivityBindingModule, will create generated SubComponent with injection to activity. And, dug deep to find out how Dagger generates Code. 
+
+**Link to work:** [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 ### Day 54: Feb 10, 2018
 
 **Today's Progress**: Following up with Dagger 2.14
 
-**Thoughts:** Continued to learn about how Dagger generates code. It's not magical after all. Completed the final update in simpleToDo to dagger 2.14 [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
+**Thoughts:** Continued to learn about how Dagger generates code. It's not magical after all. Completed the final update in simpleToDo to dagger 2.14 
+
+**Link to work:** [Simple ToDo app using updated Dagger 2.14](https://github.com/biratrai/SimpleToDo)
 
 
 ### Day 55: Feb 11, 2018
 
 **Today's Progress**: Started learning Android Architecture components.
 
-**Thoughts:** Lot of good stuff is there in Android Architecture components. Did code lab for Room. Cleaned old code base for popular movies. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+**Thoughts:** Lot of good stuff is there in Android Architecture components. Did code lab for Room. Cleaned old code base for popular movies. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 56: Feb 12, 2018
 
 **Today's Progress**: Followed with Android Architecture components.
 
-**Thoughts:** Started to do coding with Room. It's an ORM. Tried to use Room to store popular movie api data for offline usage. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+**Thoughts:** Started to do coding with Room. It's an ORM. Tried to use Room to store popular movie api data for offline usage. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 57: Feb 13, 2018
 
 **Today's Progress**: Followed with Android Architecture components especially Room.
 
-**Thoughts:** Updated model classes to entities with @Entity annotation and added table name along with it. We can use @PrimaryKey to declare the primary key for our database, @ColumnInfo to declare columns and @Ignore to ignore some fields. Only thing we should be careful about it, the primary key shouldn't be null hence, we have to add @NonNull annotation to the pimaryKey field. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+**Thoughts:** Updated model classes to entities with @Entity annotation and added table name along with it. We can use @PrimaryKey to declare the primary key for our database, @ColumnInfo to declare columns and @Ignore to ignore some fields. Only thing we should be careful about it, the primary key shouldn't be null hence, we have to add @NonNull annotation to the pimaryKey field. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 58: Feb 14, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Created DAO object which is responsible to have the query methods equivalent to the sqlite queries. It's super easy to make queries with room. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+**Thoughts:** Created DAO object which is responsible to have the query methods equivalent to the sqlite queries. It's super easy to make queries with room. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 59: Feb 15, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Created an abstract class which extended RoomDatabase to create the database for the application. A simple annotation with @Database with entities and version of the database was all needed to create a database. We can add the migration logic here. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+**Thoughts:** Created an abstract class which extended RoomDatabase to create the database for the application. A simple annotation with @Database with entities and version of the database was all needed to create a database. We can add the migration logic here. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 60: Feb 16, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Added a class to separate the Room specific logic to a repository class. This was an interface that can help us abstract the concrete implementation of the database queries. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+**Thoughts:** Added a class to separate the Room specific logic to a repository class. This was an interface that can help us abstract the concrete implementation of the database queries. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 61: Feb 17, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Integrated Stetho library to easily access the created database and see the results. This helps in debugging the application pretty easily. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+**Thoughts:** Integrated Stetho library to easily access the created database and see the results. This helps in debugging the application pretty easily. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 ### Day 62: Feb 18, 2018
 
 **Today's Progress**: Followed with Android Architecture components specially Room.
 
-**Thoughts:** Finally added the Room database queries to add the favorite movie user has selected to the database and display the title in a simple text view. [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+**Thoughts:** Finally added the Room database queries to add the favorite movie user has selected to the database and display the title in a simple text view. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 
 
