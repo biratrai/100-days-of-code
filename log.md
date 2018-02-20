@@ -395,8 +395,15 @@
 
 **Thoughts:** Lot of good stuff is there in Android Architecture components. Did code lab for Room. Cleaned old code base for popular movies.
 
-### Day 55: Feb 12, 2018
+### Day 56: Feb 12, 2018
 
 **Today's Progress**: Followed with Android Architecture components.
 
 **Thoughts:** Started to do coding with Room. It's an ORM. Tried to use Room to store popular movie api data for offline usage.
+
+### Day 57: Feb 13, 2018
+
+**Today's Progress**: Followed with Android Architecture components especially Room.
+
+**Thoughts:** Updated model classes to entities with @Entity annotation and added table name along with it. We can use @PrimaryKey to declare the primary key for our database, @ColumnInfo to declare columns and @Ignore to ignore some fields. Only thing we should be careful about it, the primary key shouldn't be null hence, we have to add @NonNull annotation to the pimaryKey field.
+
