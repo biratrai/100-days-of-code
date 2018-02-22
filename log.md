@@ -519,7 +519,13 @@
 
 **Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
+### Day 65: Feb 21, 2018
 
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Handling the fab floating button to change state when clicked. Updating the data in favorite fragment when it is in view. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 
 
