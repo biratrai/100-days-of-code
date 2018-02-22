@@ -503,7 +503,21 @@
 **Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 
+### Day 63: Feb 19, 2018
 
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Added code to display favorite movies in the fragment. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+
+### Day 64: Feb 20, 2018
+
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Added code to handle delete or addition for favorite movie. 
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 
 
