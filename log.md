@@ -527,5 +527,11 @@
 
 **Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
+### Day 66: Feb 22, 2018
 
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Fixing the fragment during orientation change. Understanding the fragment lifecycle changes.
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
