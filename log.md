@@ -535,3 +535,17 @@
 
 **Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
+### Day 67: Feb 23, 2018
+
+**Today's Progress**: Followed with Android Architecture components specially Room.
+
+**Thoughts:** Using livedata and viewmodel. Easy to setup using viewmodel, but needed to use live data. Integrating livedata was also easy, updating it was more of a pain. The asynchronous update should be done in back thread, which posed a little problem.
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+
+
+
+
+
+
+
