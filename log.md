@@ -537,12 +537,27 @@
 
 ### Day 67: Feb 23, 2018
 
-**Today's Progress**: Followed with Android Architecture components specially Room.
+**Today's Progress**: Followed with Android Architecture components specially Livedata and ViewModel.
 
 **Thoughts:** Using livedata and viewmodel. Easy to setup using viewmodel, but needed to use live data. Integrating livedata was also easy, updating it was more of a pain. The asynchronous update should be done in back thread, which posed a little problem.
 
 **Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
+### Day 68: Feb 25, 2018
+
+**Today's Progress**: Followed with Android Architecture components specially LifeCycle Observer.
+
+**Thoughts:** Using lifecycel observer. Learning about lifecycle states.
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
+
+### Day 69: Feb 26, 2018
+
+**Today's Progress**: Followed with Android Architecture components specially LifeCycle Observer.
+
+**Thoughts:** Used LifeCyclerObserver for the movieListPresenter. All of the complication was made so simple using the library. We just need to pass the context of the android activity or fragment
+
+**Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
 
 
