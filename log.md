@@ -559,6 +559,14 @@
 
 **Link to work:** [Popular Movies app using Room library](https://github.com/biratrai/PopularMovies)
 
+### Day 70: Feb 27, 2018
+
+**Today's Progress**: Learning instant app.
+
+**Thoughts:** Using old weather api app to apply the instant app feature.
+
+**Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
+
 
 
 
