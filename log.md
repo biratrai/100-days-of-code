@@ -608,5 +608,13 @@
 
 **Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
 
+### Day 76: Mar 5, 2018
+
+**Today's Progress**: Learning instant app.
+
+**Thoughts:** Adding retrofit instead of volley.
+
+**Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
+
 
 
