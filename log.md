@@ -616,5 +616,11 @@
 
 **Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
 
+### Day 77: Mar 6, 2018
 
+**Today's Progress**: Learning instant app.
+
+**Thoughts:** Making MVP with feature by package.
+
+**Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
 
