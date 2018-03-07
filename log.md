@@ -576,5 +576,13 @@
 **Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
 
 
+### Day 72: Mar 1, 2018
+
+**Today's Progress**: Learning instant app.
+
+**Thoughts:** Separating to weather-base-app module which will be shared as a feature in instant app.
+
+**Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
+
 
 
