@@ -600,5 +600,13 @@
 
 **Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
 
+### Day 75: Mar 4, 2018
+
+**Today's Progress**: Learning instant app.
+
+**Thoughts:** Adding app-links to make it instant app.
+
+**Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
+
 
 
