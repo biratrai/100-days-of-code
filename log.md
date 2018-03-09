@@ -624,3 +624,13 @@
 
 **Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
 
+### Day 78: Mar 7, 2018
+
+**Today's Progress**: Learning instant app.
+
+**Thoughts:** Updated the ReadMe and adding integer with decimal and signed as ime-type for keyboard.
+
+**Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
+
+
+
