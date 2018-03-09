@@ -632,5 +632,11 @@
 
 **Link to work:** [Weather app with instant app feature](https://github.com/biratrai/weatherApi)
 
+### Day 79: Mar 8, 2018
 
+**Today's Progress**: Learning RxJava with Retrofit2.
+
+**Thoughts:** Cleaning the oldcode base and updating dependencies.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
 
