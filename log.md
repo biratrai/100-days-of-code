@@ -640,3 +640,13 @@
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
 
+### Day 80: Mar 9, 2018
+
+**Today's Progress**: Learning RxJava with Retrofit2.
+
+**Thoughts:** Cleaning the oldcode base and removing hungarian notation previously used. Deleted util class that was unused.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
+
+
