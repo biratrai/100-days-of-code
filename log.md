@@ -648,5 +648,13 @@
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
 
+### Day 81: Mar 12, 2018
+
+**Today's Progress**: Learning RxJava with Retrofit2.
+
+**Thoughts:** Cache control for retrofit and cache interceptor to log request.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
 
 
