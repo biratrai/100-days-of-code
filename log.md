@@ -664,4 +664,10 @@
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
 
+### Day 83: Mar 14, 2018
 
+**Today's Progress**: Learning RxJava with Retrofit2.
+
+**Thoughts:** Tested for successful response, failed response and exception in response.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
