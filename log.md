@@ -680,4 +680,12 @@
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
 
+### Day 85: Mar 17, 2018
+
+**Today's Progress**: Learning RxJava with Retrofit2.
+
+**Thoughts:** Making detail presenter more testable, by passing the dependent objects in constructor.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
 
