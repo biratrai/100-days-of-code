@@ -688,4 +688,12 @@
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
 
+### Day 86: Mar 18, 2018
+
+**Today's Progress**: Learning RxJava with Retrofit2.
+
+**Thoughts:** Adding test for RestApi.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
 
