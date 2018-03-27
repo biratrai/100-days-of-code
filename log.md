@@ -708,15 +708,24 @@
 
 **Today's Progress**: Learning RxJava with Retrofit2.
 
-**Thoughts:** Testing the editpost api call.
+**Thoughts:** Tested for edit post successful response, failed response and exception in response.
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
 
 ### Day 89: Mar 21, 2018
 
-**Today's Progress**: Learning RxJava with Retrofit2.
+**Today's Progress**: Adding the Google Scholarship Final project.
 
-**Thoughts:** Tested for edit post successful response, failed response and exception in response.
+**Thoughts:** Adding various jquery calls in the project to meet the final project.
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
+### Day 90: Mar 24, 2018
+
+**Today's Progress**: Learning React for web development.
+
+**Thoughts:** Implementing the first react code.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
 
