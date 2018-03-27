@@ -671,3 +671,13 @@
 **Thoughts:** Tested for successful response, failed response and exception in response.
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
+### Day 84: Mar 15, 2018
+
+**Today's Progress**: Learning test with Argument Captor.
+
+**Thoughts:** Tested for successful response, failed response and exception in response in detail presenter.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
+
