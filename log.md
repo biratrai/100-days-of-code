@@ -704,3 +704,11 @@
 
 **Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
 
+### Day 88: Mar 20, 2018
+
+**Today's Progress**: Learning RxJava with Retrofit2.
+
+**Thoughts:** Testing the editpost api call.
+
+**Link to work:** [Retrofit2.0 with RxJava](https://github.com/biratrai/RetrofitRequest)
+
