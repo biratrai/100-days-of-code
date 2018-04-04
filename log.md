@@ -744,4 +744,14 @@
 
 **Link to work:** [React Web](https://github.com/biratrai/react-web-project)
 
+### Day 93: Mar 30, 2018
+
+**Today's Progress**: Learning React For Web development.
+
+**Thoughts:** Added various component for login, landing, home page and password.
+
+**Link to work:** [React Web](https://github.com/biratrai/react-web-project)
+
+
+
 
