@@ -770,4 +770,10 @@
 
 **Link to work:** [React Web](https://github.com/biratrai/react-web-project)
 
+### Day 96: apr 3, 2018
 
+**Today's Progress**: Learning React For Web development.
+
+**Thoughts:** Adding form to upload project url and image.
+
+**Link to work:** [React Web](https://github.com/biratrai/react-web-project)
