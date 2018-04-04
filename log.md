@@ -762,4 +762,12 @@
 **Link to work:** [React Web](https://github.com/biratrai/react-web-project)
 
 
+### Day 95: Apr 2, 2018
+
+**Today's Progress**: Learning React For Web development.
+
+**Thoughts:** Added Firebase to read the firebase database, populated firebase data with fake data.
+
+**Link to work:** [React Web](https://github.com/biratrai/react-web-project)
+
 
