@@ -736,4 +736,12 @@
 
 **Link to work:** [React Web](https://github.com/biratrai/react-web-project)
 
+### Day 92: Mar 28, 2018
+
+**Today's Progress**: Learning React For Web development.
+
+**Thoughts:** Playing with various api to create component for main screen.
+
+**Link to work:** [React Web](https://github.com/biratrai/react-web-project)
+
 
