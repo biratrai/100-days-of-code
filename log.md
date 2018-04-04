@@ -753,5 +753,13 @@
 **Link to work:** [React Web](https://github.com/biratrai/react-web-project)
 
 
+### Day 94: Mar 31, 2018
+
+**Today's Progress**: Learning React For Web development.
+
+**Thoughts:** Added Firebase for authentication and added UI for google-login using material-ui library.
+
+**Link to work:** [React Web](https://github.com/biratrai/react-web-project)
+
 
 
