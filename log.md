@@ -786,3 +786,13 @@
 
 **Link to work:** [React Web](https://github.com/biratrai/react-web-project)
 
+### Day 98: apr 7, 2018
+
+**Today's Progress**: Learning React For Web development.
+
+**Thoughts:** Used iframe to show image inside Card. Used firebase database to read data from back-end.
+
+**Link to work:** [React Web](https://github.com/biratrai/react-web-project)
+
+
+
