@@ -795,4 +795,10 @@
 **Link to work:** [React Web](https://github.com/biratrai/react-web-project)
 
 
+### Day 99: apr 8, 2018
 
+**Today's Progress**: Learning React For Web development.
+
+**Thoughts:** Cleaning up the code, adding firebase logic to implement sigin for google. Populated database with profile name and profile picture link and displaying them.
+
+**Link to work:** [React Web](https://github.com/biratrai/react-web-project)
