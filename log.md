@@ -777,3 +777,12 @@
 **Thoughts:** Adding form to upload project url and image.
 
 **Link to work:** [React Web](https://github.com/biratrai/react-web-project)
+
+### Day 97: apr 5, 2018
+
+**Today's Progress**: Learning React For Web development.
+
+**Thoughts:** Integrated firebase to upload data to the firebase database.
+
+**Link to work:** [React Web](https://github.com/biratrai/react-web-project)
+
